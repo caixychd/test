@@ -2,3 +2,4 @@ add sone text
 add some local text
 add some remote texts
 add some texts on master
+add some feature texts
